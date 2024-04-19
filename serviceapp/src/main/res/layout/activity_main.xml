@@ -10,14 +10,14 @@
             android:id="@+id/image_album_art"
             android:layout_width="250dp"
             android:layout_height="250dp"
-            android:src="@drawable/hugo"
+            android:src="@drawable/photo"
             android:scaleType="centerCrop"
             android:contentDescription="@null"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="God save Earth"
+            android:text="Suffer"
             android:textSize="20sp"
             android:textStyle="bold"
             android:layout_marginTop="16dp"/>
@@ -25,7 +25,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hugo Loud"
+            android:text="Sematary"
             android:textSize="16sp"
             android:textColor="@android:color/darker_gray"
             android:layout_marginTop="8dp"/>
