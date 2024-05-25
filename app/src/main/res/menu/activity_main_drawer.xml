@@ -31,5 +31,8 @@
         <item
             android:id="@+id/fileOperationsFragment"
             android:title="File operations"/>
+        <item
+            android:id="@+id/establishmentsFragment"
+            android:title="Map"/>
     </group>
 </menu>

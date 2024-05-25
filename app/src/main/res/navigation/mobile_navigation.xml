@@ -53,5 +53,10 @@
         android:name="ru.mirea.asalinao.mireaproject.FileOperationsFragment"
         android:label="File operations"
         tools:layout="@layout/fragment_file_operations" />
+    <fragment
+        android:id="@+id/establishmentsFragment"
+        android:name="ru.mirea.asalinao.mireaproject.EstablishmentsFragment"
+        android:label="Map"
+        tools:layout="@layout/fragment_establishments" />
 
 </navigation>
